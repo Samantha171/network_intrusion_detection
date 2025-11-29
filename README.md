@@ -5,6 +5,7 @@ PacketShield is a machine learning–based Network Intrusion Detection System de
 ---
 
 ##  Team Members
+- **Kaushika C (23PW12)**
 - **Samantha W (23PW25)**
 
 ---
